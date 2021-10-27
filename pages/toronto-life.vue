@@ -1,11 +1,11 @@
 <template>
   <div>
     <section class="inner-wrapper project">
-      <h1 class="project-title">Toronto Life</h1>
+      <h1 class="project-title">toronto Life</h1>
       <div class="project-credits">
         <div>
           <p>Art Director</p>
-          <p>Christine Dewairy</p>
+          <p>christine Dewairy</p>
         </div>
         <div>
           <p>Associate Art Director</p>
@@ -24,10 +24,6 @@
         <div class="img-container">
           <img
             :data-src="require('../assets/images/toronto-life/19_02_CHEFS_ON_THE_ROAD-1.jpg')"
-            alt="Image from Toronto Life magazine designed by Stephanie Firka."
-          />
-          <img
-            :data-src="require('../assets/images/toronto-life/19_02_CHEFS_ON_THE_ROAD-2.jpg')"
             alt="Image from Toronto Life magazine designed by Stephanie Firka."
           />
         </div>
