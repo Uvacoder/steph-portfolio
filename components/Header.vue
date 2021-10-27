@@ -2,8 +2,8 @@
   <header>
     <nav>
       <nuxt-link to="/me">
-        Stephanie
-        <span>Firka</span>
+        stephanie
+        <span>firka</span>
       </nuxt-link>
       <div class="line"></div>
       <nuxt-link to="/">Projects</nuxt-link>
