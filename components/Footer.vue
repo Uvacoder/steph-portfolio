@@ -2,7 +2,7 @@
   <footer>
     <nuxt-link to="/golden-girls">
       Golden
-      <span>Girls</span>
+      <span>Girlz</span>
     </nuxt-link>
   </footer>
 </template>
