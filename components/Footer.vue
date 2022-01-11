@@ -1,8 +1,8 @@
 <template>
   <footer>
     <nuxt-link to="/golden-girls">
-      Golden
-      <span>Girlz</span>
+      Dr.
+      <span>Kimble</span>
     </nuxt-link>
   </footer>
 </template>
